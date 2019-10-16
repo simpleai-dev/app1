@@ -9,6 +9,6 @@ clone the project, go to heroku and start a new app. select your git repo and de
 
 My requirements.txt is way bigger than it should be, because I am using a pre existing conda env. you can trim it to your needs. 
 
-![alt text]("sample.png")
 
+![sample](sample.png)
 
