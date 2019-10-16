@@ -5,5 +5,5 @@ import json
 import os
 
 
-st.title('Sample App For Streamlit)
+st.title('Welcome To Streamlit Application')
 
